@@ -361,3 +361,4 @@ ls --color=auto
 echo "yey"
 echo "i finish the boilerplate!"
 echo "one more thing..."
+ec text "i made this boilerplate" README.md
