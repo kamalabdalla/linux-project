@@ -329,3 +329,4 @@ cd images/
 rm bachground.jpg
 cd ..
 ls --color=auto
+rmdir images/
