@@ -273,3 +273,4 @@ find
 cd ..
 mkdir client
 pwd
+ls --color=auto
