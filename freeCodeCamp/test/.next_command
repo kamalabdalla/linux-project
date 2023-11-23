@@ -344,3 +344,7 @@ ls --color=auto
 cd ../../..
 mvdir fonts/ assets
 cd client/
+ls --color=auto
+cd assets/
+ls --color=auto
+cd fonts/
