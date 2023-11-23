@@ -239,3 +239,5 @@ cp bachground.jpg image/
 cp image/ images
 cp i -rmage/ images
 ls --color=auto
+cd images/
+ls --color=auto
