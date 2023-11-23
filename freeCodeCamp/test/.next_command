@@ -351,3 +351,4 @@ cd fonts/
 touch lato-bold.ttf
 touch lato-light.ttf
 find
+cd ..
