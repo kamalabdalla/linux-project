@@ -175,3 +175,5 @@ pwd
 ls --color=auto
 cd has
 cd .
+cd ..
+cd ../..
