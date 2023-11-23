@@ -153,3 +153,7 @@ cd test
 pwd
 ls --color=auto
 git status
+git log
+git log
+cd ..
+ls --color=auto
