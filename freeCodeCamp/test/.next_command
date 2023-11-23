@@ -353,3 +353,4 @@ touch lato-light.ttf
 find
 cd ..
 rm -r fonts/
+ls --color=auto
