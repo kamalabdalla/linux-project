@@ -246,3 +246,4 @@ cd ..
 ls --color=auto
 rm bachground.jpg
 ls --color=auto
+cp header.jpg images/
