@@ -167,3 +167,4 @@ cd has
 ls --color=auto
 less README.md
 ls --color=auto
+head LICENSE-MIT
