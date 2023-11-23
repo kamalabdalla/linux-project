@@ -316,3 +316,7 @@ ls --color=auto
 mv header.jpg cd ../../..
 ls --color=auto
 mv heafooterg cd ../../..
+ls --color=auto
+mv header.jpeg cd ../../..
+ls --color=auto
+mv header.jpeg ../../..
