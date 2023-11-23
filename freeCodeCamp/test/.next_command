@@ -385,3 +385,5 @@ recursive website-boilerplate/ toms-website
 ls --color=auto
 mkdir toms-website
 cd toms-website/
+ls --color=auto
+clea
