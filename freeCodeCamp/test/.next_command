@@ -236,3 +236,4 @@ clear
 mkdir image
 ls --color=auto
 cp bachground.jpg image/
+cp image/ images
