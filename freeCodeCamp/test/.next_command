@@ -308,3 +308,4 @@ ls --color=auto
 ls --color=auto
 cd ../../..
 touch header.png
+ls --color=auto
