@@ -291,3 +291,5 @@ man find
 fint -name index.js
 find -name index.js
 find -name styles.css
+find
+cd ..
