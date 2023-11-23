@@ -159,3 +159,4 @@ cd ..
 ls --color=auto
 head package.json
 clear
+ls --color=auto
