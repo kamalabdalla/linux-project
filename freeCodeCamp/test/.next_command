@@ -357,3 +357,4 @@ ls --color=auto
 cd ../../
 touch package.json server.js
 touch README.md
+ls --color=auto
