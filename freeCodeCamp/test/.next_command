@@ -366,3 +366,6 @@ ec hotext "i made this boilerplate" README.md
 echo text "i made this boilerplate" README.md
 echo text "i am abdalla " README.md
 more
+head README.md
+echo text "readme " README.md
+head README.md
