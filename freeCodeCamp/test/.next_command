@@ -170,3 +170,4 @@ ls --color=auto
 head LICENSE-MIT
 clear
 ls --color=auto
+cd ..
