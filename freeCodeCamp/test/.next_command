@@ -296,3 +296,4 @@ cd ..
 find
 cd client/
 mkdir assets
+cd assets/
