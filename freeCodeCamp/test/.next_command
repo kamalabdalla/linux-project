@@ -304,3 +304,4 @@ ls --color=auto
 mv images/ client/assets/
 cd client/assets/images/
 ls --color=auto
+ls --color=auto
