@@ -387,3 +387,6 @@ mkdir toms-website
 cd toms-website/
 ls --color=auto
 clea
+clear
+__vsc_prompt_cmd_original
+echo "goodbye terminal"
