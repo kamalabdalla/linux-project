@@ -241,3 +241,6 @@ cp i -rmage/ images
 ls --color=auto
 cd images/
 ls --color=auto
+cd we
+cd ..
+ls --color=auto
