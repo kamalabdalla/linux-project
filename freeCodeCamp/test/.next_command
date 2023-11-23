@@ -375,3 +375,7 @@ ls --color=auto
 mv website/ website-boilerplate
 find
 ls --color=auto
+cp website-boilerplate/ abdalla-web
+man cp
+ls --color=auto
+cp recursive website-boilerplate/ toms-website
