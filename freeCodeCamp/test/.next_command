@@ -371,3 +371,4 @@ echo text "readme " README.md
 head README.md
 less README.md
 cd ..
+ls --color=auto
