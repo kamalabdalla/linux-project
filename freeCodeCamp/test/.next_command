@@ -248,3 +248,5 @@ rm bachground.jpg
 ls --color=auto
 cp header.jpg images/
 cp footer.jpg images/
+cp footer.jpeg images/
+cd images/
