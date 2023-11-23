@@ -342,3 +342,4 @@ cd ..
 cd client/assets/icons/
 ls --color=auto
 cd ../../..
+mvdir fonts/ assets
