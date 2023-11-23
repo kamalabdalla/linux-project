@@ -330,3 +330,5 @@ rm bachground.jpg
 cd ..
 ls --color=auto
 rmdir images/
+la
+ls --color=auto
