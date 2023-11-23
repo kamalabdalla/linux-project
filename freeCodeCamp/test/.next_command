@@ -340,3 +340,5 @@ ls --color=auto
 cd ../../
 cd ..
 cd client/assets/icons/
+ls --color=auto
+cd ../../..
