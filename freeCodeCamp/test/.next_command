@@ -255,3 +255,4 @@ cd ..
 ls --color=auto
 rm header.jpg
 rm footer.jpeg
+ls --color=auto
