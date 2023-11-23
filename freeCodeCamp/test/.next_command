@@ -286,3 +286,5 @@ mv index.js client/
 mv styles.css client/
 find
 cd client/
+find
+man find
