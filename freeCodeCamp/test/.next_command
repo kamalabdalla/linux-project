@@ -298,3 +298,8 @@ cd client/
 mkdir assets
 cd assets/
 cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+mv images/ client/assets/
+cd client/assets/images/
