@@ -223,3 +223,4 @@ cd website/
 touch bachground.jpg
 touch header.jpg
 touch footer.jpeg
+ls --color=auto
