@@ -274,3 +274,8 @@ cd ..
 mkdir client
 pwd
 ls --color=auto
+cd cliend
+cd client
+cls
+mkdir src
+cd ../..
