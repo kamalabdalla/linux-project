@@ -293,3 +293,5 @@ find -name index.js
 find -name styles.css
 find
 cd ..
+find
+cd client/
