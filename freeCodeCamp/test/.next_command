@@ -360,3 +360,4 @@ touch README.md
 ls --color=auto
 echo "yey"
 echo "i finish the boilerplate!"
+echo "one more thing..."
