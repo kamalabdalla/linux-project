@@ -157,3 +157,4 @@ git log
 git log
 cd ..
 ls --color=auto
+head package.json
