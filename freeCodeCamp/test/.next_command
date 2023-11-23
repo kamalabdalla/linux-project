@@ -306,3 +306,4 @@ cd client/assets/images/
 ls --color=auto
 ls --color=auto
 ls --color=auto
+cd ../../..
