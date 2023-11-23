@@ -314,3 +314,4 @@ find
 cd client/assets/images/
 ls --color=auto
 mv header.jpg cd ../../..
+ls --color=auto
