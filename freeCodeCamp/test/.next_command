@@ -165,3 +165,4 @@ pwd
 ls --color=auto -l
 cd has
 ls --color=auto
+less README.md
