@@ -279,3 +279,7 @@ cd client
 cls
 mkdir src
 cd ../..
+ls --color=auto
+cd website/
+ls --color=auto
+mv index.js client/
