@@ -310,3 +310,5 @@ cd ../../..
 touch header.png
 ls --color=auto
 ls --color=auto
+find
+cd client/assets/images/
