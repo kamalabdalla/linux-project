@@ -164,3 +164,4 @@ cd node_modules/
 pwd
 ls --color=auto -l
 cd has
+ls --color=auto
