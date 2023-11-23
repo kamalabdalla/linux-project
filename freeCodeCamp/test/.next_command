@@ -245,3 +245,4 @@ cd we
 cd ..
 ls --color=auto
 rm bachground.jpg
+ls --color=auto
