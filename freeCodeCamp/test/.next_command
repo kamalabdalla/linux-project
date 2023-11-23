@@ -250,3 +250,4 @@ cp header.jpg images/
 cp footer.jpg images/
 cp footer.jpeg images/
 cd images/
+ls --color=auto
