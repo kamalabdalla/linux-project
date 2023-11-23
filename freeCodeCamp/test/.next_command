@@ -323,3 +323,9 @@ mv header.jpeg ../../..
 rm footer.jpeg
 find
 cd ..
+rmdir images/
+rmdir -r images/
+cd images/
+rm bachground.jpg
+cd ..
+ls --color=auto
