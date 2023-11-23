@@ -332,3 +332,4 @@ ls --color=auto
 rmdir images/
 la
 ls --color=auto
+mkdir icons
