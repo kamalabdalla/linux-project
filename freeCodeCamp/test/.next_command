@@ -369,3 +369,4 @@ more
 head README.md
 echo text "readme " README.md
 head README.md
+less README.md
