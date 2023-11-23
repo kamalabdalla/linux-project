@@ -160,3 +160,4 @@ ls --color=auto
 head package.json
 clear
 ls --color=auto
+cd node_modules/
