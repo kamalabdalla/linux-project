@@ -354,3 +354,4 @@ find
 cd ..
 rm -r fonts/
 ls --color=auto
+cd ../../
