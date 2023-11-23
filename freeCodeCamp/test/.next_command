@@ -320,3 +320,5 @@ ls --color=auto
 mv header.jpeg cd ../../..
 ls --color=auto
 mv header.jpeg ../../..
+rm footer.jpeg
+find
