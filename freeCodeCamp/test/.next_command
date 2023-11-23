@@ -383,3 +383,4 @@ cp recursive website-boilerplate/ toms-website
 __vsc_prompt_cmd_original
 recursive website-boilerplate/ toms-website
 ls --color=auto
+mkdir toms-website
