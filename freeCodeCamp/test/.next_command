@@ -237,3 +237,5 @@ mkdir image
 ls --color=auto
 cp bachground.jpg image/
 cp image/ images
+cp i -rmage/ images
+ls --color=auto
